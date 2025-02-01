@@ -1,6 +1,9 @@
 # TableauDashboard_EmergencyHealthCare
 This project analyzes the relationship between wait time and patient satisfaction in emergency care using data visualization techniques in Tableau. The goal is to understand whether reducing wait times directly improves patient experience or if other factors play a larger role.
 
+<a href="https://public.tableau.com/app/profile/angad.singh4504/viz/HealthcareDashboard_17382666433030/Dashboard?classId=f7b37e2c-be88-4e3c-82a6-9990e8684202&assignmentId=e6a649f6-6253-4c73-ad79-a1c2d4c32086&submissionId=9f94ad90-2631-3b60-c7fc-4d6d935b6a48">PUBLIC LINK
+</a>
+
 ![image](https://github.com/user-attachments/assets/0aa361cf-d4e9-43a3-9681-5af8e3c53aa7)
 
 
